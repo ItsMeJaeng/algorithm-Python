@@ -1,4 +1,7 @@
-// 브랜치
+
+# 브랜치 관련
+```re
+
 	// 브랜치 만들기
    	   $ git branch [브랜치명]
 
@@ -28,7 +31,7 @@
 	$ git branch -u origin/jaeng jaeng
 	$ git remote set-head origin -a
 
-
+```
 
    
    
