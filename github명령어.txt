@@ -1,6 +1,6 @@
 // 브랜치
 	// 브랜치 만들기
-   	$ git branch [브랜치명]
+   	   $ git branch [브랜치명]
 
 
 	// 로컬 저장소 브랜치명 변경
@@ -22,11 +22,11 @@
    	   $ git push origin : [현재명] [변경할명]
 
 
-//GitHub내 세팅에서 master를 jaeng으로 바꾸고 gitbash에서 로컬도 변경해준다. 
-$ git branch -m master jaeng
-$ git fetch origin
-$ git branch -u origin/jaeng jaeng
-$ git remote set-head origin -a
+	//GitHub내 세팅에서 master를 jaeng으로 바꾸고 gitbash에서 로컬도 변경해준다.
+	$ git branch -m master jaeng
+	$ git fetch origin
+	$ git branch -u origin/jaeng jaeng
+	$ git remote set-head origin -a
 
 
 
