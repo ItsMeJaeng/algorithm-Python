@@ -1,6 +1,5 @@
 # 수박수박수박수
 
-```python
 def solution(n):
      answer = ''
 
@@ -10,4 +9,3 @@ def solution(n):
          else:
              answer += '박'
     return answer
-```
